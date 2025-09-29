@@ -1,6 +1,4 @@
 This is my revised changes
-
-
 I m going to push the file- Done.
-I am checking the pull request 
+I am checking the pull request --> Done 
 
