@@ -3,5 +3,5 @@ I m going to push the file- Done.
 I am checking the pull request --> Done 
 
 
-Created new branch and task is completed. and merging the changes to remote. 
+Created new branch and task is completed. and merging the changes to remote. --> done
 
